@@ -1,0 +1,1 @@
+{"build": {"builder": "NIXPACKS"}, "start": "python reply_service.py"}
